@@ -31,7 +31,7 @@ LINK:
 SETTINGS_FRIENDS_LINKS: {
     enable: true,
     json_api: "https://cdn.jsdelivr.net/gh/sjhfuigashgrs/js-K@latest/friend.json",
-    list: ["kingの小窝", "https://king-cc.cn/", "https://img.wwery.com/Sugar/IlSbLRSH.jpg"]
+    list: ["king", "https://king-cc.cn/", "https://img.wwery.com/Sugar/IlSbLRSH.jpg"]
 }
 
 # get links from gitee
@@ -57,7 +57,7 @@ GITHUB_FRIENDS_LINKS: {
 # block site list
 # 添加屏蔽站点，支持正则表达式
 BLOCK_SITE: [
-#    https://king-cc.cn/link/, # 屏蔽 https://example.com/
+#    https://king-cc.cn/, # 屏蔽 https://example.com/
 #    .*\.com,  # 含有.com的全部屏蔽
 #    ^http://,  # http开头的全部屏蔽
 ]
