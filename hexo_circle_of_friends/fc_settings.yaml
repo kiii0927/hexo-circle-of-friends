@@ -15,7 +15,7 @@
 #   - stellar：stellar主题
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。***至少配置一个***
 LINK:
-    - {link: "https://www.yyyzyyyz.cn/link/", theme: "butterfly"}  # 友链页地址1，修改为你的友链页地址
+    - {link: "https://king-cc.cn/link/", theme: "butterfly"}  # 友链页地址1，修改为你的友链页地址
 #    - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址2
 #    - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址3
 
@@ -66,7 +66,7 @@ GITHUB_FRIENDS_LINKS: {
 # block site list
 # 添加屏蔽站点，支持正则表达式
 BLOCK_SITE: [
-#    https://example.com/, # 屏蔽 https://example.com/
+    https://king-cc.cn/link/, # 屏蔽 https://example.com/
 #    .*\.com,  # 含有.com的全部屏蔽
 #    ^http://,  # http开头的全部屏蔽
 ]
