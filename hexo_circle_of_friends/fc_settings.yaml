@@ -59,7 +59,7 @@ GITHUB_FRIENDS_LINKS: {
 # block site list
 # 添加屏蔽站点，支持正则表达式
 BLOCK_SITE: [
-#    https://king-cc.cn/, # 屏蔽 https://example.com/
+    https://king-cc.cn/,
 #    .*\.com,  # 含有.com的全部屏蔽
 #    ^http://,  # http开头的全部屏蔽
 ]
