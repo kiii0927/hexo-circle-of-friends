@@ -32,7 +32,7 @@ SETTINGS_FRIENDS_LINKS: {
     enable: true,
     json_api: "https://cdn.jsdelivr.net/gh/sjhfuigashgrs/js-K@latest/src/friends.json",
     list: [
-        # ["king", "https://king-cc.cn/", "https://img.wwery.com/Sugar/IlSbLRSH.jpg"]
+        ["king", "https://king-cc.cn/", "https://img.wwery.com/Sugar/IlSbLRSH.jpg"]
     ]
 }
 
